@@ -126,7 +126,7 @@
          id="stop6165" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
+  <namedview
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
@@ -142,15 +142,15 @@
      id="base" />
   <metadata
      id="metadata6880">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+    <RDF>
+      <Work
+         about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+           resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
+      </Work>
+    </RDF>
   </metadata>
   <g
      transform="translate(43.648288,39.112665)"

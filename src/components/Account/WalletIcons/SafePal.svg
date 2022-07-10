@@ -17,15 +17,15 @@
    width="256">
   <metadata
      id="metadata863">
-    <rdf:RDF>
-      <cc:Work
+    <RDF>
+      <Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+           resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>形状结合</dc:title>
-      </cc:Work>
-    </rdf:RDF>
+      </Work>
+    </RDF>
   </metadata>
   <defs
      id="defs861">
